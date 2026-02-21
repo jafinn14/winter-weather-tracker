@@ -1,0 +1,27 @@
+# Core web framework
+streamlit>=1.29.0
+
+# HTTP requests for NWS API
+requests>=2.31.0
+
+# Data visualization
+plotly>=5.18.0
+
+# Data manipulation
+pandas>=2.1.0
+
+# Date parsing utilities
+python-dateutil>=2.8.0
+
+# Desktop notifications (for auto_fetch alerts)
+plyer>=2.1.0
+
+# AI summaries (optional - works without either)
+google-genai>=1.0.0  # Gemini
+anthropic>=0.18.0    # Claude - paid
+
+# Statistical analysis for probability charts
+scipy>=1.11.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
